@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DUMEKA/DUMEKA/main/assets/profile-header.png" alt="Emirhan Kaan Arslan — DUMEKA" width="100%">
+  <img src="./assets/dumeka-header-v3.png" alt="Emirhan Kaan Arslan — DUMEKA" width="100%">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 I build long-term software projects where architecture, maintainability and automation matter as much as making the feature work.
 
-My work currently spans game development, backend systems, content intelligence, learning products and quantitative research. Most larger projects stay private while they evolve toward their intended full scope.
+My work spans game development, backend systems, content intelligence, learning products and quantitative research. Most larger projects stay private while they evolve toward their intended full scope.
 
 <br>
 
@@ -24,7 +24,7 @@ GAME SYSTEMS / UNITY / C#
 
 FPS Roguelike Dungeon Crawler
 
-A PC-first roguelike built around depth-based progression, replayable runs and interconnected gameplay systems. The architecture is designed for continued expansion rather than a short prototype cycle.
+A PC-first roguelike built around depth-based progression, replayable runs and interconnected gameplay systems. Its architecture is designed for continued expansion rather than a short prototype cycle.
 
 <sub>Unity 6 · C# · Gameplay Systems · Roguelike</sub>
 
