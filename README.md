@@ -6,9 +6,11 @@
 
 ## 01 / Profile
 
-I build long-term software projects where **architecture, maintainability and automation** matter beyond the first working version.
+I turn ideas into working products and systems with **AI coding tools**.
 
-My work spans **game development, backend systems, content intelligence, learning products and quantitative research**. Most larger projects stay private while they evolve toward their intended full scope.
+I focus on deciding **what to build, how it should behave, how different systems should fit together, and how the project should evolve over time**. I use AI coding agents for implementation while I guide the direction, review results, test behavior and iterate on the product.
+
+My projects currently span **games, automation, content intelligence, learning products and quantitative research**.
 
 <br>
 
@@ -64,25 +66,27 @@ Rigorant combines provenance-aware market data, causal testing, protected valida
 
 <br>
 
-## 03 / Systems / Stack
+## 03 / Technologies Used
 
-| Area | Stack |
+These are some of the technologies currently used across my projects.
+
+| Area | Technologies |
 | --- | --- |
-| **Languages** | Python · C# · TypeScript · JavaScript · SQL · HTML · CSS |
-| **Game development** | Unity 6 |
-| **Backend / Data** | FastAPI · PostgreSQL · SQLite · Parquet |
+| **Game development** | Unity 6 · C# |
+| **Backend / Data** | Python · FastAPI · PostgreSQL · SQLite · Parquet |
+| **Web** | TypeScript · JavaScript · HTML · CSS |
 | **Workflow** | Git · GitHub · Docker · VS Code |
-| **Systems** | WebSockets · data pipelines · automation · research tooling |
+| **AI-assisted development** | AI coding agents · automation · iterative testing |
 
 <br>
 
 ## 04 / Current Interests
 
-**Game systems** — gameplay architecture, progression and maintainable content systems  
-**Backend engineering** — APIs, data models and background workflows  
-**Automation** — reducing repetitive work without losing observability or control  
-**Data & research** — turning fragmented data into defensible decisions  
-**Developer tooling** — workflows that make iteration and debugging more reliable
+**Product & system design** — turning rough ideas into structured projects  
+**Game systems** — gameplay, progression and long-term content structure  
+**AI-assisted development** — directing coding agents through implementation and iteration  
+**Automation** — reducing repetitive work through reliable workflows  
+**Research systems** — structuring information, testing ideas and supporting better decisions
 
 <br>
 
