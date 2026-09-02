@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/lab-header.png" alt="DUMEKA — Emirhan Kaan Arslan" width="100%">
+  <img src="./assets/header-v8.png" alt="DUMEKA — Emirhan Kaan Arslan" width="100%">
 </p>
 
 <br>
 
 ## 01 / Profile
 
-I build long-term software projects where **architecture, maintainability and automation** matter as much as making the feature work.
+I build long-term software projects where **architecture, maintainability and automation** matter beyond the first working version.
 
 My work spans **game development, backend systems, content intelligence, learning products and quantitative research**. Most larger projects stay private while they evolve toward their intended full scope.
 
@@ -15,7 +15,7 @@ My work spans **game development, backend systems, content intelligence, learnin
 ## 02 / Selected Work
 
 <p align="center">
-  <img src="./assets/01-sinkfall.png" alt="Sinkfall" width="100%">
+  <img src="./assets/01-sinkfall-v8.png" alt="Sinkfall" width="100%">
 </p>
 
 **FPS Roguelike Dungeon Crawler**
@@ -27,7 +27,7 @@ A PC-first roguelike built around depth-based progression, replayable runs and i
 <br>
 
 <p align="center">
-  <img src="./assets/02-channelsentry.png" alt="ChannelSentry" width="100%">
+  <img src="./assets/02-channelsentry-v8.png" alt="ChannelSentry" width="100%">
 </p>
 
 **Autonomous YouTube Content Intelligence**
@@ -39,7 +39,7 @@ A research and automation system built around a Fortnite-focused YouTube channel
 <br>
 
 <p align="center">
-  <img src="./assets/03-lexumi.png" alt="Lexumi" width="100%">
+  <img src="./assets/03-lexumi-v8.png" alt="Lexumi" width="100%">
 </p>
 
 **Interactive English Learning Platform**
@@ -51,7 +51,7 @@ An English-learning product built around structured progression and interactive 
 <br>
 
 <p align="center">
-  <img src="./assets/04-rigorant.png" alt="Rigorant" width="100%">
+  <img src="./assets/04-rigorant-v8.png" alt="Rigorant" width="100%">
 </p>
 
 **Quantitative Strategy Research & Validation**
@@ -64,19 +64,19 @@ Rigorant combines provenance-aware market data, causal testing, protected valida
 
 <br>
 
-## 03 / Working With
+## 03 / Systems / Stack
 
 | Area | Stack |
 | --- | --- |
 | **Languages** | Python · C# · TypeScript · JavaScript · SQL · HTML · CSS |
-| **Game** | Unity 6 |
+| **Game development** | Unity 6 |
 | **Backend / Data** | FastAPI · PostgreSQL · SQLite · Parquet |
 | **Workflow** | Git · GitHub · Docker · VS Code |
 | **Systems** | WebSockets · data pipelines · automation · research tooling |
 
 <br>
 
-## 04 / Focus
+## 04 / Current Interests
 
 **Game systems** — gameplay architecture, progression and maintainable content systems  
 **Backend engineering** — APIs, data models and background workflows  
@@ -87,5 +87,5 @@ Rigorant combines provenance-aware market data, causal testing, protected valida
 <br>
 
 <p align="center">
-  <sub>DUMEKA / personal software lab</sub>
+  <img src="./assets/footer-v8.png" alt="DUMEKA footer" width="100%">
 </p>
