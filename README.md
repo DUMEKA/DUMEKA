@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.png" alt="Emirhan Kaan Arslan — DUMEKA" width="100%">
+  <img src="https://raw.githubusercontent.com/DUMEKA/DUMEKA/main/assets/profile-header.png" alt="Emirhan Kaan Arslan — DUMEKA" width="100%">
 </p>
 
 <p align="center">
