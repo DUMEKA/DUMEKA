@@ -1,104 +1,121 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,45:6d28d9,100:db2777&height=170&section=header&text=DUMEKA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20%C2%B7%20Game%20Development%20%C2%B7%20Automation%20%C2%B7%20Data%20Systems&descAlignY=64&descSize=17" />
-
 <div align="center">
 
-### Emirhan Kaan Arslan
+# Emirhan Kaan Arslan
 
-**Building systems meant to grow — not just demos.**
+### `DUMEKA`
 
-</div>
+Software Development · Game Development · Backend Systems · Automation
 
----
+<br>
 
-## About
-
-I enjoy building projects where **architecture, automation and product design** matter just as much as getting the feature to work.
-
-My main interests are game development, backend systems, software architecture, data-driven applications and developer tooling.
-
-Most of my larger work is developed privately while the projects are actively evolving.
-
----
-
-## Selected Work
-
-### 🎮 Sinkfall
-
-**FPS Roguelike Dungeon Crawler**
-
-A PC-first roguelike built with **Unity 6 and C#**, focused on depth-based progression, replayable runs and interconnected gameplay systems designed to scale over long-term development.
-
-`Unity 6` · `C#` · `Gameplay Systems` · `Roguelike`
-
----
-
-### 📡 ChannelSentry
-
-**Autonomous YouTube Content Intelligence System**
-
-A research and automation system designed to support a Fortnite-focused YouTube channel by continuously collecting, structuring and analyzing relevant sources, competitors and ecosystem activity.
-
-Its goal is to turn scattered information into useful signals for content research and decision-making.
-
-`Python` · `FastAPI` · `PostgreSQL` · `YouTube Data` · `Docker`
-
----
-
-### 📚 Lexumi
-
-**Interactive English Learning Platform**
-
-An English-learning product focused on structured practice, interactive learning and long-term progression rather than disconnected exercises.
-
-`Learning Systems` · `Product Development`
-
----
-
-### 📈 Rigorant
-
-**Crypto Quant Research & Strategy Validation Platform**
-
-A local-first quantitative research platform built to determine whether crypto trading strategies actually have a durable edge.
-
-It combines provenance-aware market data, causal strategy testing, protected validation and holdouts, realistic futures execution simulation and paper decision support.
-
-`Python` · `SQLite` · `Parquet` · `WebSockets` · `CCXT` · `Quant Research`
-
----
-
-## Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,cs,ts,js,html,css,unity,fastapi,postgres,docker,git,github,vscode&perline=13" />
+I build long-term software projects with an emphasis on  
+**architecture, maintainability, automation and systems that can actually grow.**
 
 </div>
 
 <br>
 
-**Languages**  
-`Python` · `C#` · `TypeScript` · `JavaScript` · `SQL` · `HTML` · `CSS`
+## About
 
-**Platforms & Backend**  
-`Unity` · `FastAPI` · `PostgreSQL`
+I like working on projects that go beyond a single feature or prototype.
 
-**Development**  
-`Git` · `GitHub` · `Docker` · `VS Code`
+Most of my work involves designing the systems behind a product — how its parts communicate, how it can evolve without becoming fragile, and how repetitive work can be automated without sacrificing control.
 
----
+My current work spans **game development, backend engineering, data-heavy applications, automation and quantitative research**.
 
-## What I Like Working On
+Most larger projects are kept private while they are actively being developed.
 
-`Game Systems` · `Backend Engineering` · `Automation` · `Software Architecture`
+<br>
 
-`Data Systems` · `Quantitative Research` · `Developer Tooling`
+## Selected Work
+
+### Sinkfall
+##### FPS Roguelike Dungeon Crawler
+
+A PC-first roguelike built with **Unity 6 and C#**.
+
+The project is centered around depth-based progression, replayable runs and interconnected gameplay systems, with the underlying architecture designed for continued expansion rather than a short prototype cycle.
+
+`Unity 6` `C#` `Gameplay Systems` `Roguelike`
+
+<br>
+
+### ChannelSentry
+##### Autonomous YouTube Content Intelligence
+
+A research and automation system designed around a Fortnite-focused YouTube channel.
+
+It continuously collects and structures information from relevant sources, competitors and ecosystem activity, then turns that data into usable signals for content research and decision-making.
+
+The goal is not simply to display YouTube statistics, but to reduce the manual work involved in understanding what is happening around the channel and what may be worth acting on.
+
+`Python` `FastAPI` `PostgreSQL` `YouTube Data` `Automation`
+
+<br>
+
+### Lexumi
+##### Interactive English Learning Platform
+
+An English-learning product built around structured progression and interactive practice.
+
+Rather than treating lessons as disconnected exercises, Lexumi is intended to develop into a cohesive learning system where different forms of practice contribute to long-term progression.
+
+`Learning Systems` `Product Design` `Web Development`
+
+<br>
+
+### Rigorant
+##### Quantitative Crypto Research & Strategy Validation
+
+A local-first research platform for answering a deceptively difficult question:
+
+**Does a trading strategy actually have a durable edge?**
+
+Rigorant combines historical and real-time futures data with causal strategy testing, protected validation and holdouts, realistic execution simulation, provenance tracking and paper decision support.
+
+Its purpose is not to produce as many signals as possible. It is designed to reject weak ideas, expose unreliable results and preserve the evidence behind strategies that survive validation.
+
+`Python` `SQLite` `Parquet` `WebSockets` `CCXT` `Quant Research`
+
+<br>
+
+## Working With
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python · C# · TypeScript · JavaScript · SQL · HTML · CSS |
+| **Game Development** | Unity 6 |
+| **Backend & Data** | FastAPI · PostgreSQL · SQLite · Parquet |
+| **Development** | Git · GitHub · Docker · VS Code |
+| **Other** | WebSockets · CCXT · data pipelines · automation |
+
+<br>
+
+## Interests
+
+**Game systems**  
+Gameplay architecture, progression systems and maintainable content-driven design.
+
+**Backend engineering**  
+APIs, data models, background workflows and systems that need to remain understandable as they grow.
+
+**Automation**  
+Removing repetitive work while keeping workflows observable and controllable.
+
+**Data & research systems**  
+Turning large or fragmented datasets into structured information that can actually support decisions.
+
+**Developer tooling**  
+Tools and workflows that make development, debugging and iteration more reliable.
+
+<br>
 
 ---
 
 <div align="center">
 
-### DUMEKA
-
-<sub>Build it properly. Make it scalable. Keep improving it.</sub>
+<sub>
+DUMEKA · Building software as systems, not disposable demos.
+</sub>
 
 </div>
