@@ -68,15 +68,15 @@ Rigorant combines provenance-aware market data, causal testing, protected valida
 
 ## 03 / Technologies Used
 
-These are some of the technologies currently used across my projects.
+Tools and technologies currently used across my projects.
 
 | Area | Technologies |
 | --- | --- |
-| **Game development** | Unity 6 · C# |
-| **Backend / Data** | Python · FastAPI · PostgreSQL · SQLite · Parquet |
+| **Game** | Unity 6 · C# |
+| **Backend & Data** | Python · FastAPI · PostgreSQL · SQLite |
 | **Web** | TypeScript · JavaScript · HTML · CSS |
 | **Workflow** | Git · GitHub · Docker · VS Code |
-| **AI-assisted development** | AI coding agents · automation · iterative testing |
+| **AI-assisted development** | Coding agents · automation · iterative testing |
 
 <br>
 
